@@ -1,0 +1,14 @@
+
+
+<<< Recorded commands on Thu Aug 15 2019 11:43:01 GMT-0400 (Eastern Daylight Time)
+I.click({css: '.dropdown-caret'})
+I.click({css: '.dropdown-caret'})
+I.click({css: '.details-overlay .dropdown-caret'})
+I.click({css: '.details-overlay .dropdown-caret'})
+I.click({css: '.details-overlay.details-reset'})
+
+<<< Recorded commands on Thu Aug 15 2019 11:47:55 GMT-0400 (Eastern Daylight Time)
+I.click({css: '.details-overlay.details-reset'})
+I.click('//html/body/div[1]/header/div[8]/details/summary')
+I.see('Sign out')
+I.click({css: '.dropdown-signout'})
